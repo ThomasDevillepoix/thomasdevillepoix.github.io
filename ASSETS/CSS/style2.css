@@ -1,0 +1,21 @@
+@media screen and (max-width: 480px)
+{
+    .expPro{
+        display: none;
+    }
+    .expPro2{
+        display: none;
+    }
+    
+    .card{
+        columns: 12;
+    }
+    .ban{
+        display: flex;
+        background-image: url(../Images/BannièreCVNumerique.png);
+        height: 130px;
+        width: 100%;
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+}

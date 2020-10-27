@@ -1,0 +1,61 @@
+.left{
+    padding: -15px;
+    background-color: #000000;
+    justify-content: center;
+}
+.collapse{
+    display: flex;
+    justify-content: center;
+}
+nav ul li a{
+    color: #FFFF;
+}
+.nav{
+    background-color: #000000;
+}
+.h{
+    font-size: 20px;
+}
+.ban{
+    display: flex;
+    background-image: url(../Images/BannièreCVNumerique.png);
+    height: 370px;
+    background-size: cover;
+    justify-content: center;
+}
+.expPro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.blue:hover{
+    color: rgba(0, 183, 255, 0.692);
+}
+.yel:hover{
+    color: hsla(51, 100%, 50%, 0.87);
+}
+nav ul li a:hover{
+    font-size: 25px;
+    color: rgba(0, 183, 255, 0.692);
+}
+.expPro:hover{
+    color: rgba(63, 127, 179, 0.877);
+}
+.card:hover{
+    border-radius: 50px 50px 50px 50px;
+    border-width: 10px;
+}
+.card-text:hover{
+    font-weight: bolder;
+}
+.left:hover{
+    font-style: italic;
+}
+.expPro2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.expPro2:hover{
+    color: rgb(247, 189, 30);
+}
