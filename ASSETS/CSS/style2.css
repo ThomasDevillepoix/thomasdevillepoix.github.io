@@ -9,7 +9,7 @@
     
     .card{
         columns: 12;
-        
+
     }
     .ban{
         display: flex;
@@ -19,5 +19,8 @@
         background-size: contain;
         background-repeat: no-repeat;
         display: none;
+    }
+    .card-title {
+        font-size: 18px;
     }
 }

@@ -31,6 +31,7 @@ nav ul li a{
 }
 .blue:hover{
     color: rgba(0, 183, 255, 0.692);
+    
 }
 .yel:hover{
     color: hsla(51, 100%, 50%, 0.87);
