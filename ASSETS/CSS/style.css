@@ -23,6 +23,7 @@ nav ul li a{
     background-size: cover;
     justify-content: center;
 }
+
 .expPro{
     display: flex;
     justify-content: center;
@@ -48,9 +49,9 @@ nav ul li a:hover{
 .card-text:hover{
     font-weight: bolder;
 }
-.left:hover{
+/* .left:hover{
     font-style: italic;
-}
+} */
 .expPro2{
     display: flex;
     justify-content: center;
