@@ -23,4 +23,11 @@
     .card-title {
         font-size: 18px;
     }
+    .ban2{
+        display: flex;
+        background-image: url(../Images/logoCVFinal.png);
+        height: 420px;
+        background-size: cover;
+        justify-content: center;
+    }
 }

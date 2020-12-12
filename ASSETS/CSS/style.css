@@ -23,6 +23,14 @@ nav ul li a{
     background-size: cover;
     justify-content: center;
 }
+.ban2{
+    display: flex;
+    background-image: url(../Images/logoCV.png);
+    height: 370px;
+    background-size: cover;
+    justify-content: center;
+    display: none;
+}
 
 .expPro{
     display: flex;
@@ -50,9 +58,7 @@ nav ul li a:hover{
 .card-text:hover{
     font-weight: bolder;
 }
-/* .left:hover{
-    font-style: italic;
-} */
+
 .expPro2{
     display: flex;
     justify-content: center;
@@ -60,4 +66,8 @@ nav ul li a:hover{
 }
 .expPro2:hover{
     color: rgb(247, 189, 30);
+}
+.progress-bar{
+    background : linear-gradient(0.25turn,rgb(247, 189, 30),rgba(0, 183, 255, 0.692))
+    /* background : linear-gradient(to right, rgb(247, 189, 30),rgba(0, 183, 255, 0.692)) */
 }
